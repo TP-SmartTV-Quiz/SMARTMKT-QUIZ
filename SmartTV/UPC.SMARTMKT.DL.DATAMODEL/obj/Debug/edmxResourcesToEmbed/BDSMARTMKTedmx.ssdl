@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SMARTMKTModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="SMARTMKTModelStoreContainer">
+    <EntitySet Name="CATEGORIA" EntityType="SMARTMKTModel.Store.CATEGORIA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="GRUPOEDAD" EntityType="SMARTMKTModel.Store.GRUPOEDAD" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PERFIL" EntityType="SMARTMKTModel.Store.PERFIL" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PREGUNTA" EntityType="SMARTMKTModel.Store.PREGUNTA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="USUARIO" EntityType="SMARTMKTModel.Store.USUARIO" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_PERFIL_USUARIO" Association="SMARTMKTModel.Store.FK_PERFIL_USUARIO">
+      <End Role="USUARIO" EntitySet="USUARIO" />
+      <End Role="PERFIL" EntitySet="PERFIL" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PREGUNTA_CATEGORIA" Association="SMARTMKTModel.Store.FK_PREGUNTA_CATEGORIA">
+      <End Role="CATEGORIA" EntitySet="CATEGORIA" />
+      <End Role="PREGUNTA" EntitySet="PREGUNTA" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CATEGORIA">
+    <Key>
+      <PropertyRef Name="IDCATEGORIA" />
+    </Key>
+    <Property Name="IDCATEGORIA" Type="int" Nullable="false" />
+    <Property Name="NBRCATEGORIA" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="GRUPOEDAD">
+    <Key>
+      <PropertyRef Name="IDGRUPOEDAD" />
+    </Key>
+    <Property Name="IDGRUPOEDAD" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="EDADINICIAL" Type="int" Nullable="false" />
+    <Property Name="EDADFINAL" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PERFIL">
+    <Key>
+      <PropertyRef Name="IDPERFIL" />
+    </Key>
+    <Property Name="IDPERFIL" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NOMBRE" Type="varchar" Nullable="false" MaxLength="120" />
+    <Property Name="FECNACIMIENTO" Type="date" />
+    <Property Name="USUARIO" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="NIVEL" Type="int" Nullable="false" />
+    <Property Name="PUNTOS" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PREGUNTA">
+    <Key>
+      <PropertyRef Name="IDPREGUNTA" />
+    </Key>
+    <Property Name="IDPREGUNTA" Type="int" Nullable="false" />
+    <Property Name="PREGUNTA" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="OPCION1" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="OPCION2" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="OPCION3" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="OPCION4" Type="nvarchar" Nullable="false" MaxLength="200" />
+    <Property Name="CLAVE" Type="int" Nullable="false" />
+    <Property Name="IDCATEGORIA" Type="int" Nullable="false" />
+    <Property Name="NIVEL" Type="int" Nullable="false" />
+    <Property Name="DIFICULTAD" Type="char" Nullable="false" MaxLength="1" />
+    <Property Name="FLGELIMINADO" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="USUARIO" />
+    </Key>
+    <Property Name="USUARIO" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CONTRASEÑA" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="NOMBRE" Type="varchar" Nullable="false" MaxLength="150" />
+    <Property Name="FECNACIMIENTO" Type="date" Nullable="false" />
+    <Property Name="CORREO" Type="nvarchar" Nullable="false" MaxLength="150" />
+  </EntityType>
+  <Association Name="FK_PERFIL_USUARIO">
+    <End Role="USUARIO" Type="SMARTMKTModel.Store.USUARIO" Multiplicity="1" />
+    <End Role="PERFIL" Type="SMARTMKTModel.Store.PERFIL" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USUARIO">
+        <PropertyRef Name="USUARIO" />
+      </Principal>
+      <Dependent Role="PERFIL">
+        <PropertyRef Name="USUARIO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PREGUNTA_CATEGORIA">
+    <End Role="CATEGORIA" Type="SMARTMKTModel.Store.CATEGORIA" Multiplicity="1" />
+    <End Role="PREGUNTA" Type="SMARTMKTModel.Store.PREGUNTA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CATEGORIA">
+        <PropertyRef Name="IDCATEGORIA" />
+      </Principal>
+      <Dependent Role="PREGUNTA">
+        <PropertyRef Name="IDCATEGORIA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="UspObtenerUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="USUARIO1" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="UspRegistrarUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="USUARIO" Type="varchar" Mode="In" />
+    <Parameter Name="CONTRASEÑA" Type="nvarchar" Mode="In" />
+    <Parameter Name="NOMBRE" Type="varchar" Mode="In" />
+    <Parameter Name="FECNACIMIENTO" Type="datetime" Mode="In" />
+    <Parameter Name="CORREO" Type="nvarchar" Mode="In" />
+  </Function>
+</Schema>

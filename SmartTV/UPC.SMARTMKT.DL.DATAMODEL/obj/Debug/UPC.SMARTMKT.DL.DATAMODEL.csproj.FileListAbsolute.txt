@@ -1,0 +1,12 @@
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll.config
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\obj\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\obj\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll.config
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\bin\Debug\EntityFramework.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\bin\Debug\EntityFramework.xml
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\obj\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DATAMODEL\obj\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb

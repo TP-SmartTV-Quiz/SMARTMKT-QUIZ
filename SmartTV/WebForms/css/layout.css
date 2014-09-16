@@ -1,0 +1,66 @@
+﻿body {
+}
+
+.nvbar{
+    list-style: none;
+    background: transparent;
+    height: 50px;
+    width: 100%;
+    font-size:12px;
+}
+
+.nvbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.nvbar li {
+    float: left;
+    height: 30px;
+    width: 10%;
+    padding: 15px 10px 5px;
+    text-align: center;
+    background-color: #080808;
+    border-right: 1px solid #444;
+    position: relative;
+}
+
+.nvbar li ul {
+    position: absolute;
+    top: 50px;
+}
+
+.nvbar li ul li {
+    float: none;
+    width: 140%;
+    text-align: left;
+}
+
+.nvbar a {
+    font-family: "Meiryo UI",Arial,sans-serif;
+    color: #999;
+    text-decoration: none;
+    display: block;
+}
+
+.sub1 {
+    visibility: hidden;
+}
+
+.sub2 {
+    visibility: hidden;
+}
+
+.pclist:hover .sub2 {
+    visibility: visible;
+}
+
+.rfclist:hover .sub1 {
+    visibility: visible;
+}
+
+.nvbar li:hover {
+    background-color: #333;
+}

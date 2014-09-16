@@ -1,0 +1,32 @@
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.ServiceImplementation.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.ServiceImplementation.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.BL.BC.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.DL.DALC.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.DataContracts.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.ServiceContracts.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.BL.BC.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.DL.DALC.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.DataContracts.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.ServiceContracts.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\obj\Debug\UPC.SMARTMKT.SI.ServiceImplementation.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\obj\Debug\UPC.SMARTMKT.SI.ServiceImplementation.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\obj\Debug\UPC.SMARTMKT.SI.ServiceImplementation.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.ServiceImplementation.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.ServiceImplementation.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.BL.BC.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.DL.DALC.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.DataContracts.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.ServiceContracts.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\EntityFramework.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.BL.BC.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.DL.DALC.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.DataContracts.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\UPC.SMARTMKT.SI.ServiceContracts.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\bin\Debug\EntityFramework.xml
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\obj\Debug\UPC.SMARTMKT.SI.ServiceImplementation.csprojResolveAssemblyReference.cache
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\obj\Debug\UPC.SMARTMKT.SI.ServiceImplementation.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.ServiceImplementation\obj\Debug\UPC.SMARTMKT.SI.ServiceImplementation.pdb

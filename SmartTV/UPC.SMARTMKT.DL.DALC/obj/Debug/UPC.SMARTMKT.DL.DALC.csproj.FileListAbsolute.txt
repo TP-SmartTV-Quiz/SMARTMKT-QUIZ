@@ -1,0 +1,16 @@
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\UPC.SMARTMKT.DL.DALC.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\UPC.SMARTMKT.DL.DALC.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DALC\obj\Debug\UPC.SMARTMKT.DL.DALC.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DALC\obj\Debug\UPC.SMARTMKT.DL.DALC.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.DL.DALC\obj\Debug\UPC.SMARTMKT.DL.DALC.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\UPC.SMARTMKT.DL.DALC.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\UPC.SMARTMKT.DL.DALC.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\EntityFramework.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DALC\bin\Debug\EntityFramework.xml
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DALC\obj\Debug\UPC.SMARTMKT.DL.DALC.csprojResolveAssemblyReference.cache
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DALC\obj\Debug\UPC.SMARTMKT.DL.DALC.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.DL.DALC\obj\Debug\UPC.SMARTMKT.DL.DALC.pdb

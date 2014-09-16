@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SMARTMKTModelStoreContainer" CdmEntityContainer="SMARTMKTEntities">
+    <EntitySetMapping Name="CATEGORIAs">
+      <EntityTypeMapping TypeName="SMARTMKTModel.CATEGORIA">
+        <MappingFragment StoreEntitySet="CATEGORIA">
+          <ScalarProperty Name="IDCATEGORIA" ColumnName="IDCATEGORIA" />
+          <ScalarProperty Name="NBRCATEGORIA" ColumnName="NBRCATEGORIA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GRUPOEDADs">
+      <EntityTypeMapping TypeName="SMARTMKTModel.GRUPOEDAD">
+        <MappingFragment StoreEntitySet="GRUPOEDAD">
+          <ScalarProperty Name="IDGRUPOEDAD" ColumnName="IDGRUPOEDAD" />
+          <ScalarProperty Name="EDADINICIAL" ColumnName="EDADINICIAL" />
+          <ScalarProperty Name="EDADFINAL" ColumnName="EDADFINAL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PERFILs">
+      <EntityTypeMapping TypeName="SMARTMKTModel.PERFIL">
+        <MappingFragment StoreEntitySet="PERFIL">
+          <ScalarProperty Name="IDPERFIL" ColumnName="IDPERFIL" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="FECNACIMIENTO" ColumnName="FECNACIMIENTO" />
+          <ScalarProperty Name="USUARIO" ColumnName="USUARIO" />
+          <ScalarProperty Name="NIVEL" ColumnName="NIVEL" />
+          <ScalarProperty Name="PUNTOS" ColumnName="PUNTOS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PREGUNTAs">
+      <EntityTypeMapping TypeName="SMARTMKTModel.PREGUNTA">
+        <MappingFragment StoreEntitySet="PREGUNTA">
+          <ScalarProperty Name="IDPREGUNTA" ColumnName="IDPREGUNTA" />
+          <ScalarProperty Name="PREGUNTA1" ColumnName="PREGUNTA" />
+          <ScalarProperty Name="OPCION1" ColumnName="OPCION1" />
+          <ScalarProperty Name="OPCION2" ColumnName="OPCION2" />
+          <ScalarProperty Name="OPCION3" ColumnName="OPCION3" />
+          <ScalarProperty Name="OPCION4" ColumnName="OPCION4" />
+          <ScalarProperty Name="CLAVE" ColumnName="CLAVE" />
+          <ScalarProperty Name="IDCATEGORIA" ColumnName="IDCATEGORIA" />
+          <ScalarProperty Name="NIVEL" ColumnName="NIVEL" />
+          <ScalarProperty Name="DIFICULTAD" ColumnName="DIFICULTAD" />
+          <ScalarProperty Name="FLGELIMINADO" ColumnName="FLGELIMINADO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USUARIOs">
+      <EntityTypeMapping TypeName="SMARTMKTModel.USUARIO">
+        <MappingFragment StoreEntitySet="USUARIO">
+          <ScalarProperty Name="USUARIO1" ColumnName="USUARIO" />
+          <ScalarProperty Name="CONTRASEÑA" ColumnName="CONTRASEÑA" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="FECNACIMIENTO" ColumnName="FECNACIMIENTO" />
+          <ScalarProperty Name="CORREO" ColumnName="CORREO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="UspObtenerUsuario" FunctionName="SMARTMKTModel.Store.UspObtenerUsuario">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="SMARTMKTModel.UspObtenerUsuario_Result">
+          <ScalarProperty Name="USUARIO" ColumnName="USUARIO" />
+          <ScalarProperty Name="CONTRASEÑA" ColumnName="CONTRASEÑA" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="FECNACIMIENTO" ColumnName="FECNACIMIENTO" />
+          <ScalarProperty Name="CORREO" ColumnName="CORREO" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="UspRegistrarUsuario" FunctionName="SMARTMKTModel.Store.UspRegistrarUsuario" />
+  </EntityContainerMapping>
+</Mapping>

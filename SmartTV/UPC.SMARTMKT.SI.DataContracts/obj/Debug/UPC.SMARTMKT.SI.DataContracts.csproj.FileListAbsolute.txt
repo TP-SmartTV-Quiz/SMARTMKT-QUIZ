@@ -1,0 +1,9 @@
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.DataContracts\bin\Debug\UPC.SMARTMKT.SI.DataContracts.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.DataContracts\bin\Debug\UPC.SMARTMKT.SI.DataContracts.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.DataContracts\obj\Debug\UPC.SMARTMKT.SI.DataContracts.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.SI.DataContracts\obj\Debug\UPC.SMARTMKT.SI.DataContracts.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.DataContracts\bin\Debug\UPC.SMARTMKT.SI.DataContracts.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.DataContracts\bin\Debug\UPC.SMARTMKT.SI.DataContracts.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.DataContracts\obj\Debug\UPC.SMARTMKT.SI.DataContracts.csprojResolveAssemblyReference.cache
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.DataContracts\obj\Debug\UPC.SMARTMKT.SI.DataContracts.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.SI.DataContracts\obj\Debug\UPC.SMARTMKT.SI.DataContracts.pdb

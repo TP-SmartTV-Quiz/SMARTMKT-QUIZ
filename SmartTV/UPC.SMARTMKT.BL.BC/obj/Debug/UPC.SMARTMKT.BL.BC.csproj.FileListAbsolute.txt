@@ -1,0 +1,20 @@
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.BL.BC.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.BL.BC.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.DL.DALC.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.DL.DALC.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.BL.BC\obj\Debug\UPC.SMARTMKT.BL.BC.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.BL.BC\obj\Debug\UPC.SMARTMKT.BL.BC.dll
+c:\users\daniel\documents\visual studio 2012\Projects\SmartTV\UPC.SMARTMKT.BL.BC\obj\Debug\UPC.SMARTMKT.BL.BC.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.BL.BC.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.BL.BC.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.DL.DALC.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\EntityFramework.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.DL.DALC.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\UPC.SMARTMKT.DL.DATAMODEL.pdb
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\bin\Debug\EntityFramework.xml
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\obj\Debug\UPC.SMARTMKT.BL.BC.csprojResolveAssemblyReference.cache
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\obj\Debug\UPC.SMARTMKT.BL.BC.dll
+C:\UPC\2014-02\TDP 2\SmartMKT\trunk\SmartTV\UPC.SMARTMKT.BL.BC\obj\Debug\UPC.SMARTMKT.BL.BC.pdb
